@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BFelty
 - 👀 I’m interested in Java, database management, and AI
 - 🌱 I’m currently learning Python and AI programming
-- 💞️ I’m looking to collaborate on nothing yet, but hopefully that changes soon
 
 <!--
+- 💞️ I’m not looking to collaborate yet, but that may change soon
 - 🏢 I'm looking for full-time work, so if you like my work, send me an email
 - 📫 Contact me at ...
 -->
