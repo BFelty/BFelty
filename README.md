@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BFelty
-- 👀 I’m interested in Java, database management, and AI
-- 🌱 I’m currently learning Python and AI programming
+- 👀 I’m interested in C# for Backend and Game Development
+- 🌱 I’m currently learning Godot Engine
 
 <!--
 - 💞️ I’m not looking to collaborate yet, but that may change soon
